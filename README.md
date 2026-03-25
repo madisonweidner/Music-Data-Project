@@ -9,7 +9,9 @@ Research Questions:
 * What track do they skip the most?
 
 ## **SELECTION OF DATA**
-The source of the dataset are Spotify users who requested their extended listening history from Spotify. We did a small amount of data munging by converting the time stamp column ('ts') from a string to a datetime value.
+The source of the dataset are Spotify users who requested their extended listening history from Spotify. We did a small amount of data munging by converting the time stamp column ('ts') from a string to a datetime value as well as converting it to EST.\
+Data Preview:\
+<img width="422" height="299" alt="Screenshot 2026-03-25 at 2 59 23 PM" src="https://github.com/user-attachments/assets/5da29408-d03d-4e3a-bf70-476c7437b6cd" />
 
 ## **METHODS**
 Tools:
