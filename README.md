@@ -1,19 +1,27 @@
 # **PROJECT REPORT**
 
-## **INTRODUCTION** 
+## **INTRODUCTION**
+Why was the project undertaken?\
+Research Questions:
+* What artists are most listened to by the person? 
+* When do they listen to music the most? (Time of day, time of year, time of month, etc.) 
+* What tracks are played most frequently? 
+* What track do they skip the most?
 
 ## **SELECTION OF DATA**
-The source of the dataset are Spotify users who requested their extended listening history from Spotify. 
+The source of the dataset are Spotify users who requested their extended listening history from Spotify. We did a small amount of data munging by converting the time stamp column ('ts') from a string to a datetime value.
 
 ## **METHODS**
-
 Tools:
-* NumPy, Pandas
+* NumPy, Pandas, Matplotlib
 
 ## **RESULTS**
-
+What answer was found to the research questions; what did the study
+find?\
+Was the tested hypothesis true?
 ## **DISCUSSION**
-
-## **DISCUSSION**
+What might the answer imply and why does it matter?\
+How does it fit in with what other researchers have found?\
+What are the perspectives for future research?
 
 ## **SUMMARY**
