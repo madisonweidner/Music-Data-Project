@@ -7,6 +7,7 @@ Research Questions:
 * When do they listen to music the most? (Time of day, time of year, time of month, etc.) 
 * What tracks are played most frequently? 
 * What track do they skip the most?
+* What factors increase the probability that a track will be skipped?
 
 ## **SELECTION OF DATA**
 The source of the dataset are Spotify users who requested their extended listening history from Spotify. We did a small amount of data munging by converting the time stamp column ('ts') from a string to a datetime value as well as converting it to EST.\
