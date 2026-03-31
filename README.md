@@ -2,7 +2,8 @@
 
 ## **INTRODUCTION**
 Why was the project undertaken?\
-This project was undertaken to explore and build an understanding of the different methods of interpreting listening data music platforms implement to better understand its users and predict user interaction.
+This project was undertaken to explore and build an understanding of the different methods of interpreting listening data music platforms implement to better understand its users and improve user satisfaction with their music recommendation algorithm.
+
 Research Questions:
 * What artists are most listened to by the person? 
 * When do they listen to music the most? (Time of day, time of year, time of month, etc.) 
@@ -11,9 +12,16 @@ Research Questions:
 * What factors increase the probability that a track will be skipped?
 
 ## **SELECTION OF DATA**
-The source of the dataset are Spotify users who requested their extended listening history from Spotify. We did a small amount of data munging by converting the time stamp column ('ts') from a string to a datetime value as well as converting it to EST. Many of the columns were dropped such as the audiobook and episode related columns due to irrelevance to answering our questions.\
+The source of the dataset are Spotify users who requested their extended listening history from Spotify. The dataset had approximately 300000 records dating back to 2020.
+
 Data Preview:\
 <img width="422" height="299" alt="Screenshot 2026-03-25 at 2 59 23 PM" src="https://github.com/user-attachments/assets/5da29408-d03d-4e3a-bf70-476c7437b6cd" />
+
+We did a small amount of data munging by converting the time stamp column ('ts') from a string to a EST datetime value. Many of the columns were dropped such as the audiobook and episode related columns due to irrelevance to answering our questions.
+
+Cleaned Data:\
+<img width="1207" height="714" alt="Screenshot 2026-03-31 at 3 44 59 PM" src="https://github.com/user-attachments/assets/ee5b7c11-22a6-48ed-be1c-30c6850e630f" />
+
 
 ## **METHODS**
 Analysis Tools:
@@ -35,3 +43,4 @@ How does it fit in with what other researchers have found?\
 What are the perspectives for future research?
 
 ## **SUMMARY**
+This project implements a supervised machine learning approach to determine the likelihood of a song being skipped.  
