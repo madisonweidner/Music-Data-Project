@@ -5,7 +5,7 @@ Why was the project undertaken?\
 This project was undertaken to explore and build an understanding of the different methods of interpreting listening data music platforms implement to better understand its users and improve user satisfaction with their music recommendation algorithm.
 
 Research Questions:
-* What artists are most listened to by the person? 
+* What artists are most listened to? 
 * When do they listen to music the most? (Time of day, time of year, time of month, etc.) 
 * What tracks are played most frequently? 
 * What track do they skip the most?
@@ -35,6 +35,9 @@ Inference Tools:
 
 ## **RESULTS**
 What answer was found to the research questions; what did the study find?\
+What time of day do people listen to music the most? \
+<img width="640" height="480" alt="SongsByDay" src="https://github.com/user-attachments/assets/fb1acc22-5c21-4345-8990-7e630fa72493" />
+\
 Was the tested hypothesis true?
 ## **DISCUSSION**
 What might the answer imply and why does it matter?\
