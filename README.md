@@ -12,7 +12,7 @@ Research Questions:
 * What factors increase the probability that a track will be skipped?
 
 ## **SELECTION OF DATA**
-The source of the dataset are Spotify users who requested their extended listening history from Spotify. The dataset had approximately 300000 records dating back to 2020.
+The source of the dataset are Spotify users who requested their extended listening history from Spotify. The dataset had approximately 700000 records dating back to 2020.
 
 Data Preview:\
 <img width="422" height="299" alt="Screenshot 2026-03-25 at 2 59 23 PM" src="https://github.com/user-attachments/assets/5da29408-d03d-4e3a-bf70-476c7437b6cd" />
