@@ -43,6 +43,9 @@ What answer was found to the research questions; what did the study find?\
 What time of day do people listen to music the most? \
 <img width="640" height="480" alt="SongsByDay" src="https://github.com/user-attachments/assets/fb1acc22-5c21-4345-8990-7e630fa72493" />
 \
+<img width="1255" height="615" alt="TopArtists" src="https://github.com/user-attachments/assets/1d65c005-3202-40f7-90f1-aff955d2e8ec" />
+
+
 Was the tested hypothesis true?
 ## **DISCUSSION**
 What might the answer imply and why does it matter?\
