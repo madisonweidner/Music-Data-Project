@@ -1,5 +1,10 @@
 # **PROJECT REPORT**
 
+## Authors: 
+- Madison Weidner
+- Luna DesRoches
+- Nesh Fuertes 
+
 ## **INTRODUCTION**
 Why was the project undertaken?\
 This project was undertaken to explore and build an understanding of the different methods of interpreting listening data music platforms implement to better understand its users and improve user satisfaction with their music recommendation algorithm.
@@ -12,7 +17,7 @@ Research Questions:
 * What factors increase the probability that a track will be skipped?
 
 ## **SELECTION OF DATA**
-The source of the dataset are Spotify users who requested their extended listening history from Spotify. The dataset had approximately 700000 records dating back to 2020.
+The source of the dataset are Spotify users who requested their extended listening history from Spotify. The dataset had approximately 800000 records dating back to 2019.
 
 Data Preview:\
 <img width="422" height="299" alt="Screenshot 2026-03-25 at 2 59 23 PM" src="https://github.com/user-attachments/assets/5da29408-d03d-4e3a-bf70-476c7437b6cd" />
