@@ -78,4 +78,4 @@ How does it fit in with what other researchers have found?
 Future research would delve more into invididually searching a person's history and comparing trends from their early listening to their most current data rather than looking across everyone's history as an entire dataset. 
 
 ## **SUMMARY**
-This project implements a supervised machine learning approach to determine the likelihood of a song being skipped.  
+This project implements a supervised machine learning approach using Random Forest Classifier to determine the likelihood of a song being skipped.  
