@@ -64,7 +64,8 @@ What tracks do they skip the most?
 <img width="567" height="566" alt="TopSkipped" src="https://github.com/user-attachments/assets/b9506fee-0581-46cd-9b8a-d470fb87c74e" />
 
 
-What factors increase the probability that a track will be skipped?
+What factors increase the probability that a track will be skipped?\
+<img width="365" height="307" alt="image" src="https://github.com/user-attachments/assets/8ca2d80b-3dfb-4855-8169-bc80144996b7" />
 
 
 ## **DISCUSSION**
