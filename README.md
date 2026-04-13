@@ -41,37 +41,41 @@ Inference Tools:
 * RandomForestClassifier
 
 ## **RESULTS**
-What answer was found to the research questions; what did the study find?\
-What artists are most listened to?
+*What artists are most listened to?*
+
 <img width="1255" height="615" alt="TopArtists" src="https://github.com/user-attachments/assets/66641e09-e68d-4e4f-89eb-4815dc95bf5d" />
 
-
-What time of day do they listen to music the most? 
+*What time of day do they listen to music the most?* 
 
 The listening data follows a workday curve where listening rises in the late morning and peaks in the early afternoon (1-2pm). 
 
 <img width="594" height="455" alt="SongsByDay" src="https://github.com/user-attachments/assets/7083731b-f8d1-4242-a056-9d914195d30b" />
 
 \
-What tracks are played most frequently?
+*What tracks are played most frequently?*
+
+Multiple of the tracks that share a similar listening frequency come from the same album which could suggest that the user listened to the entire album in one sitting. Many of these top frequency songs also do not belong to the higher rated top artists, suggesting that these users tend to binge listen to these songs while songs belonging to top artists are played at a lower frequency but more consistently. 
 
 <img width="571" height="563" alt="TopFreqPlays" src="https://github.com/user-attachments/assets/0c5755aa-9775-4c22-96de-85eda2d75e67" />
 
-Multiple of the tracks that share a similar listening frequency come from the same album which could suggest that the user listened to the entire album in one sitting. 
 
-What tracks do they skip the most?
+*What tracks do they skip the most?*
+
+A common trend among listeners is skipping songs that have been overplayed. However by cross-referencing the tracks from the most frequently played songs, there seems to be no overlap between the songs reported which could suggest another reason for these songs being so highly skipped. 
 
 <img width="567" height="566" alt="TopSkipped" src="https://github.com/user-attachments/assets/b9506fee-0581-46cd-9b8a-d470fb87c74e" />
 
 
-What factors increase the probability that a track will be skipped?\
+*What factors increase the probability that a track will be skipped?*
+
+
 <img width="365" height="307" alt="image" src="https://github.com/user-attachments/assets/8ca2d80b-3dfb-4855-8169-bc80144996b7" />
 
 
 ## **DISCUSSION**
 What might the answer imply and why does it matter?
 
-Our data is highly biased to specific genres which makes it difficult to abstract our findings for the artists and songs to a larger sample. However, our answer to which times of day have the most listening time could be important in determining appropriate times for maintenance across various music platforms, not just Spotify.
+Our data is highly biased to specific genres which makes it difficult to abstract our findings for the artists and songs to a larger sample. However, our answer to which times of day have the most listening time could be important in determining appropriate times for maintenance across various music platforms, not just Spotify. The general frequency pattern observed between a user's top artists and the songs they listened to on loop can help refine the music recommendation algorithm. Instead of insistently recommending a top artist over a short duration, recommendations for a top artist could be more spread out and be looped in based on the time since their last listen to match the listening patterns observed in our data.  
 
 How does it fit in with what other researchers have found?
 
