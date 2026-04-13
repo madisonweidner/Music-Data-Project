@@ -6,7 +6,6 @@
 - Nesh Fuertes 
 
 ## **INTRODUCTION**
-Why was the project undertaken?\
 This project was undertaken to explore and build an understanding of the different methods of interpreting listening data music platforms implement to better understand its users and improve user satisfaction with their music recommendation algorithm.
 
 Research Questions:
@@ -43,6 +42,8 @@ Inference Tools:
 ## **RESULTS**
 *What artists are most listened to?*
 
+Our dataset has a skew towards alternative/indie rock artists with our top artists having over 16000 listens across all users polled. 
+
 <img width="1255" height="615" alt="TopArtists" src="https://github.com/user-attachments/assets/66641e09-e68d-4e4f-89eb-4815dc95bf5d" />
 
 *What time of day do they listen to music the most?* 
@@ -73,11 +74,10 @@ A common trend among listeners is skipping songs that have been overplayed. Howe
 
 
 ## **DISCUSSION**
-What might the answer imply and why does it matter?
 
-Our data is highly biased to specific genres which makes it difficult to abstract our findings for the artists and songs to a larger sample. However, our answer to which times of day have the most listening time could be important in determining appropriate times for maintenance across various music platforms, not just Spotify. The general frequency pattern observed between a user's top artists and the songs they listened to on loop can help refine the music recommendation algorithm. Instead of insistently recommending a top artist over a short duration, recommendations for a top artist could be more spread out and be looped in based on the time since their last listen to match the listening patterns observed in our data.  
+Our data is highly biased to specific genres which makes it difficult to abstract our findings for the artists and songs to a larger sample. This comes from having a smaller number of users to pool from but many records from these users. 
 
-How does it fit in with what other researchers have found?
+Our answer to which times of day have the most listening time could be important in determining appropriate times for maintenance across various music platforms, not just Spotify. The general frequency pattern observed between a user's top artists and the songs they listened to on loop can help refine the music recommendation algorithm. Instead of insistently recommending a top artist over a short duration, recommendations for a top artist could be more spread out and be looped based on the time since their last listen to match the listening patterns observed in our data.  
 
 Future research would delve more into invididually searching a person's history and comparing trends from their early listening to their most current data rather than looking across everyone's history as an entire dataset. 
 
